@@ -1,0 +1,8 @@
+Ramon: Hola
+Javi: Odio Springboot
+Ramon: Hola
+Javi: Odio springboot
+Javi: hola
+mamo: hola
+[12:35] Javi: Hola
+[12:36] Javi: Hola
